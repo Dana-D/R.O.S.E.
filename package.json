@@ -1,0 +1,11 @@
+{
+  "name": "rose",
+  "version": "1.0.0",
+  "description": "Repository of Operational Super Entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dana Lee Depew II",
+  "license": "ISC"
+}
